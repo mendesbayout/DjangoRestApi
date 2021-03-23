@@ -58,7 +58,7 @@ As we already have Procfile installed, heroku deploy will only take few seconds.
 :six: push heroku master
 
 Aprende mais sobre Swagger! 
-<img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/>
+<img src="https://github.com/mendesbayout/DjangoRestApi/blob/master/giticons/heroku_original_wordmark_logo_icon_146482.svg"/>
 https://swagger.io/
 
 
