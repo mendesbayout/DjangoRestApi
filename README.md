@@ -1,4 +1,4 @@
- ## Django REST API - WORKALOVE (03/2021) -
+ ## Django REST API - WORKALOVE (03/2021)
  ### Cheff & Receip Backend
  ### Stack: Python + Django Rest Framework + SQlite3 + SwaggerUI
  asgiref + pillow + pytz + sqlparse 
