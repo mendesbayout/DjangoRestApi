@@ -59,5 +59,6 @@ As we already have Procfile installed, heroku deploy will only take few seconds.
 
 Aprende mais sobre Swagger! 
 https://swagger.io/
+<img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/>
 
 
