@@ -1,4 +1,4 @@
-  ## Django REST API para processo WORKALOVE (03/2021) -
+ ## Django REST API para processo WORKALOVE (03/2021) -
  ### Cheff & Receip Backend
  ### Stack: Python + Django Rest Framework + SQlite3 + SwaggerUI
  asgiref + pillow + pytz + sqlparse 
@@ -55,5 +55,9 @@ As we already have Procfile installed, heroku deploy will only take few seconds.
 :five: commit -am "make it better"
 
 :six: push heroku master
+
+Aprende mais sobre Swagger! 
+<img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/>
+https://swagger.io/
 
 
