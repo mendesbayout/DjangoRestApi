@@ -32,7 +32,8 @@ Durante esse processo, se tudo estiver de acordo como esperado, teremos as segui
 ▶️ GET - all cheffs (ler as ids)  
 ▶️ GET Cheff recipes
 ▶️ GET specific recipes
-   
+
+<img  src="https://github.com/mendesbayout/DjangoRestApi/blob/master/giticons/Swagger.jpg"/>
 ⚠️
 🔗 https://127.0.0.1:8000/admin/ > Pagina de management padrão do Django Rest Framework. Aqui 0 Cheff tem o poder de editar e postar novas receitas, e até incluir novos cheffs
 
