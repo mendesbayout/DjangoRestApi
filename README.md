@@ -40,7 +40,8 @@ Além de uma documentação o SwaggerUI provém interface a CRUD operations e ta
 
 ### HEROKU QUICKLY DEPLOY
 
-<img src='https://github.com/mendesbayout/DjangoRestApi/blob/master/giticons/heroku_original_wordmark_logo_icon_146482.svg'/>
+<img src='https://github.com/mendesbayout/DjangoRestApi/blob/master/giticons/heroku_plain_wordmark_logo_icon_146480.svg'/>
+
 
 As we already have Procfile installed, heroku deploy will only take few seconds... caso não tenha instalado. https://devcenter.heroku.com/articles/heroku-cli
 
