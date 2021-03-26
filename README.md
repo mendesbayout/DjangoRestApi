@@ -1,6 +1,6 @@
  ## Django REST API - WORKALOVE (03/2021)
  ### Cheff & Receip Backend
- ### Stack: Python + Django Rest Framework + SQlite3 + SwaggerUI
+ ### Stack: Python + Django Rest Framework  + SwaggerUI + SQlite3
  asgiref + pillow + pytz + sqlparse 
 
 <img src="https://img.icons8.com/dusk/128/000000/python.png"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/django.svg"/> <img src="https://github.com/mendesbayout/RestAPI/blob/master/swagger.svg"/> <img src="https://github.com/mendesbayout/DjangoRestApi/blob/master/giticons/sqlite.svg"/> 
